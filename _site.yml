@@ -1,17 +1,12 @@
-<<<<<<< HEAD
-name:Robert Lazo
+name: "Robert Lazo"
 output_dir: "."
 navbar:
   title: "Robert Lazo"
   left:
-    - text: "Research Interests"
-      href: research.html
-    - text: "Theater Production"
+    - text: "Research"
+      href: research.htmll
+    - text: "Theater"
       href: theater.html
-    - text: "R Language and Software"
-      href: r.html
-    - text: "AI & ML"
-      href: ai.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
@@ -20,21 +15,8 @@ navbar:
     - icon: fa-twitter fa-lg
       href: https://twitter.com/robertlazo
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/robertlazo/
+      href: https://www.linkedin.com/in/robertlazo
 output:
-  html_document: 
-    theme: paper    
+  html_document:
+    theme: paper
     css: 'styles.css'
-=======
-name: "Robert Lazo"
-output_dir: "."
- github: [metadata]
- encoding: UTF-8
- kramdown:
-   input: GFM
-   hard_wrap: false
- future: true
- jailed: false
- theme: jekyll-theme-primer
- gfm_quirks: paragraph_end
->>>>>>> cba47ab1f11f67b203252fa747177429e3b66835
