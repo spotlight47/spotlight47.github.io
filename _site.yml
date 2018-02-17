@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: "Robert Lazo"
 output_dir: "."
 navbar:
@@ -24,3 +25,16 @@ output:
   html_document: 
     theme: paper    
     css: 'styles.css'
+=======
+name: "Robert Lazo"
+output_dir: "."
+ github: [metadata]
+ encoding: UTF-8
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ future: true
+ jailed: false
+ theme: jekyll-theme-primer
+ gfm_quirks: paragraph_end
+>>>>>>> cba47ab1f11f67b203252fa747177429e3b66835

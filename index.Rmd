@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Robert Lazo
+=======
+Robert Lazo
+Personal Website
+Created:  2/15/2018 
+>>>>>>> cba47ab1f11f67b203252fa747177429e3b66835
