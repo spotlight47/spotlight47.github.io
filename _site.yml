@@ -4,9 +4,13 @@ navbar:
   title: "Robert Lazo"
   left:
     - text: "Research"
-      href: research.htmll
+      href: research.html
     - text: "Theater"
       href: theater.html
+    - text: "R - programming"
+      href: r.html
+    - text: "AI and ML"
+      href: ai.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html

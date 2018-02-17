@@ -1,4 +1,4 @@
 Robert Lazo
 Personal Website
 Created:  2/17/2018 
-
+This is my personal static website developed in the R Studio environment.
