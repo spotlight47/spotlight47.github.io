@@ -1,0 +1,26 @@
+name: "Robert Lazo"
+output_dir: "."
+navbar:
+  title: "Robert Lazo"
+  left:
+    - text: "Research Interests"
+      href: research.html
+    - text: "Theater Production"
+      href: theater.html
+    - text: "R Language and Software"
+      href: r.html
+    - text: "AI & ML"
+      href: ai.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/spotlight47
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/robertlazo
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/robertlazo/
+output:
+  html_document: 
+    theme: paper    
+    css: 'styles.css'
