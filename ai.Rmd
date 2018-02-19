@@ -1,0 +1,3 @@
+Artificial Intelligence & Machine Learning<br>
+<br>
+I'm approaching artificial intelligence and machine learning through learning data analysis and data science using R.  I intend to utilize the machine learning packages in R, together with some of the tools available in Microsoft Azure Machine Learning.<br>
