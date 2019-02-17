@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Research"
       href: research.html
-    - text: "Theater-2/16/2019"
+    - text: "Theater"
       href: theater.html
     - text: "R - programming"
       href: r.html
