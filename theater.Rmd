@@ -1,7 +1,8 @@
 Theater<br>
 Theatre Development Fund<br>
 [tdf.org](https://www.tdf.org)<br>
-[I'm an iline-style link with title](https://www.google.com "Google's Homepage")<br>
+Show Networks and Control Systems<br>
+[John Huntington's book and blog](http://www.controlgeek.net "controlgeek.net")<br>
 [I'm a reference style link] [Arbitrary case-insenstive reference text]<br>
 [I'm a relative reference to a repository file](.../blog/master/LICENSE)<br>
 [You can use numbers for reference-style link definitions][1]<br>
