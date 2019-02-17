@@ -1,3 +1,11 @@
 Theater<br>
 Theatre Development Fund<br>
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://www.google.com)<br>
+[I'm an iline-style link with title](https://www.google.com "Google's Homepage")<br>
+[I'm a reference style link] [Arbitrary case-insenstive reference text]<br>
+[I'm a relative reference to a repository file](.../blog/master/LICENSE)<br>
+[You can use numbers for reference-style link definitions][1]<br>
+Or leave it empty and use [link text itself]<br>
+Some text to show that the reference links can follow later.<br>
+[1]: http://slashdot.org<br>
+[link text itself]: http://www.reddit.com<br>
